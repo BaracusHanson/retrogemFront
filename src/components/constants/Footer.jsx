@@ -1,13 +1,13 @@
 import logo from "../../assets/logo.png";
 const Footer = () => {
   return (
-    <footer className="footer p-10 bg-gray-800 text-base-content">
+    <footer className="footer p-10 bg-purple-700 text-base-content text-white">
       <aside>
         <img src={logo} alt="" className="w-42 h-20" />
         <p>
           RETROGEM&#169;
           <br />
-          Disponible depuis 2023
+          Disponible depuis 2023 &#8482;
         </p>
       </aside>
       <nav>
